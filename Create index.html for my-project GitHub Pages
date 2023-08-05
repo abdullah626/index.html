@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resim Ekleme</title>
+</head>
+<body>
+    <h1>Hoş Geldiniz</h1>
+    <p>Web sayfamıza resim eklemek için aşağıdaki resmi kullanabilirsiniz:</p>
+    <img src="manzara.jpg" alt="Güzel bir manzara">
+</body>
+</html>
